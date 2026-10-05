@@ -1,3 +1,6 @@
+Berta Martínez i Alejandro Urioste
+============================================ 
+
 PAV - P2: detección de actividad vocal (VAD)
 ============================================
 
